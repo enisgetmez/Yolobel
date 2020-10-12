@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: yolobel
+Version: 0.0.3
+Summary: Video and Image labeling tool for YOLO
+Home-page: https://github.com/enisgetmez
+Author: Enis Getmez
+Author-email: enis@enisgetmez.com
+License: MIT
+Description: Video and Image labeling tool for YOLO
+        https://github.com/enisgetmez
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
